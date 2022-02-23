@@ -1,2 +1,2 @@
-# The-Pianist
+# The Pianist
 Programming Fundamentals Final Exam
